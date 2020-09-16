@@ -9,7 +9,7 @@ The scope of the thesis include the research of the theory of phase field method
 
 ## Code and Recources
 - Environment: Jupyter Notebook
-- Framework: FEniCS Project on Ubuntu 16.04
+- Framework: FEniCS Project on Ubuntu 18.04 LTS
 - Visualization Tool: ParaView
 
 
