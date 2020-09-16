@@ -1,5 +1,18 @@
 # bachelor-thesis
 
+## Contents
+- [Introduction](#introduction)
+- [Code and Recources](#code-and-recources)
+- [Abstract](#abstract)
+- [Tumor Growth](#tumor-growth)
+- [First Iteration - Tow Phase Model](#first-iteration---two-phase-model)
+- [Second Iteration - Four Phase Model](#second-iteration---four-phase-model)
+
+
+<!-- toc -->
+
+
+
 
 ## Introduction
 This is a short overview of the code and the developed models for my bachelor thesis with the title "**Phase Field Methods for Biomedical Growth Processes**". The thesis was written at the *Institute of Mechanics and Computational Mechanics (IBNM)* at the Leibniz University Hannover, Germany. The examinors were *Prof. Dr.-Ing. Dominik Schillinger* and *Prof. Dr.-Ing. Udo Nackenhorst*. The supervisor was *M. Sc. Etienne Jessen*. The thesis was submitted at September 2020 and recieved the grade of 1,0 (german grading system).
