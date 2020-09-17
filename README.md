@@ -1,4 +1,4 @@
-# bachelor-thesis
+# Bachelor Thesis
 
 ## Contents
 - [Introduction](#introduction)
